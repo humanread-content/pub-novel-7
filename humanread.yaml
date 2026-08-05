@@ -5,6 +5,7 @@ summary: An eight-chapter English condensed retelling based on Wu Cheng'en's pub
   classic. This is an original adaptation, not the complete hundred-chapter text or
   a line-by-line translation.
 cover_color: '#31566B'
+cover_asset: null
 author: Humanread Founder
 metadata:
   age_rating: teen
@@ -20,7 +21,16 @@ metadata:
   - Chinese classic
   - adventure
   warning_level: moderate
-translation: null
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: 54be8f8f2b4f54351020c66ccaac56e9714fdfe6c19162ac5da2f4e5bb8149e7
+  source_novel_id: 6
+  source_slug: novel-0ba9be66-1c6333
+  source_title: 西遊記（中文精編版）
+  source_version_id: 7
+  target_language: en
+  translator: Humanread Founder
 chapters:
 - id: 240
   title: The Stone Monkey Is Born
