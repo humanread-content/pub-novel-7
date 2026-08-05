@@ -1,0 +1,64 @@
+version: 1
+title: 'Journey to the West: Condensed English Edition'
+slug: journey-to-the-west-condensed-english-edition-211cb4
+summary: An eight-chapter English condensed retelling based on Wu Cheng'en's public-domain
+  classic. This is an original adaptation, not the complete hundred-chapter text or
+  a line-by-line translation.
+cover_color: '#31566B'
+author: Humanread Founder
+metadata:
+  age_rating: teen
+  content_warnings: Fantasy violence, death, and threats of monsters eating humans
+  language: en
+  primary_genre: adventure
+  secondary_genre: fantasy
+  serial_status: completed
+  tags:
+  - Journey to the West
+  - Wu Cheng’en
+  - English retelling
+  - Chinese classic
+  - adventure
+  warning_level: moderate
+translation: null
+chapters:
+- id: 240
+  title: The Stone Monkey Is Born
+  position: 1
+  file: chapters/0001-240.html
+  format: sanitized-html
+- id: 242
+  title: The Pilgrim Gathers His Disciples
+  position: 2
+  file: chapters/0002-242.html
+  format: sanitized-html
+- id: 244
+  title: Three Blows Against the White Bone Demon
+  position: 3
+  file: chapters/0003-244.html
+  format: sanitized-html
+- id: 246
+  title: Kingdoms of Illusion
+  position: 4
+  file: chapters/0004-246.html
+  format: sanitized-html
+- id: 248
+  title: The Kingdom of Women
+  position: 5
+  file: chapters/0005-248.html
+  format: sanitized-html
+- id: 250
+  title: Three Attempts to Borrow the Plantain Fan
+  position: 6
+  file: chapters/0006-250.html
+  format: sanitized-html
+- id: 252
+  title: The Final Trials
+  position: 7
+  file: chapters/0007-252.html
+  format: sanitized-html
+- id: 254
+  title: The Scriptures Come Home
+  position: 8
+  file: chapters/0008-254.html
+  format: sanitized-html
